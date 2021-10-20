@@ -1,0 +1,21 @@
+.icon {
+    font-size: 30px;
+    
+    color: whitesmoke;
+}
+
+.bg-testimonial {
+    background: rgb(109, 182, 216);
+}
+.bg-testimonial h2 {
+    color: black;
+}
+.bg-testimonial p {
+    color:black;
+}
+
+.bg-testimonial-cng {
+    background: rgb(201, 185, 140);
+    color: black;
+}
+
